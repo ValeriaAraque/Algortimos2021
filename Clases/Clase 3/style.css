@@ -29,8 +29,38 @@ main{
     text-align: center
 }
 #comidas-img-1> img {
-    width:48vw ;
+    width:46vw ;
     height:45vh
+}
+#comidas-img-1> img:hover{
+    width:55vw ;
+    height:50vh ;
+    transition: 1s;
+}
+#comidas-img-1>figcaption {
+font: size 2rem; ;
+}
+
+#Española > h2 {
+    font-size: 2rem ;
+    transition: 1s;
+}
+#titulo-españa:hover{
+    background-color: blue;
+    transition: 1s;
+}
+
+.content-fig {
+    width:50vw;
+    height: 45vh;
+}
+
+#Española > ul > li {
+    font-size: 3 rem;
+}
+
+#Colombiana > h2 {
+    font-size: 2rem;
 }
 #comidas-img-2{
     margin: 0px ;
@@ -56,6 +86,8 @@ main{
     width: 48vw ;
     height:45vh
 }
+
+
 footer{
     background-color: rgb(118, 179, 199);
     min-height:8vh ;
