@@ -28,9 +28,32 @@ main{
     margin: 0px ;
     text-align: center
 }
-
 #comidas-img-1> img {
     width:48vw ;
+    height:45vh
+}
+#comidas-img-2{
+    margin: 0px ;
+    text-align: center
+}
+#comidas-img-2> img {
+    width: 48vw ;
+    height:45vh
+}
+#comidas-img-3{
+    margin: 0px ;
+    text-align: center
+}
+#comidas-img-3> img {
+    width: 48vw ;
+    height:45vh
+}
+#video-comidas{
+    margin: 0px ;
+    text-align: center
+}
+#video-comidas> video {
+    width: 48vw ;
     height:45vh
 }
 footer{
