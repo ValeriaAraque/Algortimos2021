@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(128, 160, 182);
+    margin: 1px;
+    padding: 0px
+}
+header{
+    background-color: rgb(72, 126, 145);
+    min-height:8vh ;
+    text-align: center;
+    color:white;
+}
+header > h1{
+    font-size:4em;
+    margin-top: 0px;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+#titulo-hobbies > h2{
+    font-size: 2rem;
+    transition: 1s;
+}
+.content-fig {
+    width:50vw;
+    height: 45vh;
+}
