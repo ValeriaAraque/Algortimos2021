@@ -37,9 +37,6 @@ main{
     height:50vh ;
     transition: 1s;
 }
-#comidas-img-1>figcaption {
-font: size 2rem; ;
-}
 
 #Española > h2 {
     font-size: 2rem ;
