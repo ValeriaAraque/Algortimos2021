@@ -46,5 +46,5 @@ dicVentasPorMes = {
 dataFrameVentas = pd.DataFrame (dicVentasPorMes, index = ['Tomates','Papa','Yuca'])
 print (dataFrameVentas)
 print (dataFrameVentas.iloc [2])
-#Serie con ganancias durane un año
+#Serie con ganancias durante un año
 #Inventar ejercicio papas, yucas y tomates para todo el año
