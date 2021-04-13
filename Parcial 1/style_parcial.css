@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(230, 187, 247);
+    margin: 5px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    background-color: rgb(213, 120, 250);
+    min-height:6vh ;
+    text-align: center;
+    color:white;
+    font-size: 2em;
+    margin-top: 0px;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+header{
+    transition: 1.5s;
+}
+#imagen-raph{
+    margin: 0px ;
+    text-align: center
+}
+#imagen-ralph> img {
+    width:48vw ;
+    height:55vh;
+}
+#imagen-ralph> img:hover{
+    width:58vw;
+    height:65vh;
+    transition:1s
+}
+
+#descripcion-noticia {
+    color:rgb(196, 112, 245);
+    font-size: 2rem;
+}
